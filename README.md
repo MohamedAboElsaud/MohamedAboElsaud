@@ -100,7 +100,7 @@ I love coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 * 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 * 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedaboelsaud/)
-* 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+* 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/mohamedaboelsaud) to see the book I have read
 * ⚡️ Fun fact: I love to eat and travel
 * ⚡ In my free time, I solve problems on Leetcode,and reading books.
 
