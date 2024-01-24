@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/mohamedaboelsaud?logo=github&style=
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
-      I'm a software developer, iOS engineer ,I love to contribute to open-source projects. I also write about software engineering, learning, and career to help readers.</br>
+      I'm a software developer, iOS engineer, I love contributing to open-source projects. I also write about software engineering, learning, and career to help readers.</br>
       I'm a <strong>Grad Student🎓 Sohag University</strong> majoring in Computer Science. I'm a <b>Tech Enthusiast 💻 😃</b> passionate about learning and <br> working with new tech. </br>
       I love building interesting and amazing iOS Apps that serve a great deal of purpose. I’m currently working on iOS Apps.</br>
       
@@ -94,15 +94,15 @@ I love coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 * 🌍  I'm based in Egypt
 * 🔭 I’m currently working as a Teaching Assistant at **Sohag University**
 * ✉️  You can contact me at [mohamedaboelsaud@icloud.com](mailto:mohamedaboelsaud@icloud.com)
-* 🧠  I'm learning iOS apps development
+* 🧠  I'm learning iOS app development
 * 🤝  I'm open to collaborating on iOS apps
 * 📝 I write technical blogs and articles
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-* 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+* 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
 * 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamedaboelsaud/)
-* 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/mohamedaboelsaud) to see the book I have read
+* 📚 &nbsp; When free, I read Show Your Work!. Checkout my [Goodreads](https://www.goodreads.com/mohamedaboelsaud) to see the book I have read
 * ⚡️ Fun fact: I love to eat and travel
-* ⚡ In my free time, I solve problems on Leetcode,and reading books.
+* ⚡ In my free time, I solve problems on Leetcode and read books.
 
 
 
