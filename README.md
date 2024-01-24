@@ -92,7 +92,7 @@ I love coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
 
 * 🌍  I'm based in Egypt
-* 🔭 I’m currently working as a Teaching assistant at **Sohag University**
+* 🔭 I’m currently working as a Teaching Assistant at **Sohag University**
 * ✉️  You can contact me at [mohamedaboelsaud@icloud.com](mailto:mohamedaboelsaud@icloud.com)
 * 🧠  I'm learning iOS apps development
 * 🤝  I'm open to collaborating on iOS apps
@@ -165,12 +165,6 @@ class About extends Me {
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=mohamedaboelsaud&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaboelsaud&hide=TeX&layout=compact)
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohamedaboelsaud/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <div align="center" >
