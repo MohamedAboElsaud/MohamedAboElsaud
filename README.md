@@ -168,7 +168,7 @@ class About extends Me {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohamedaboelsaud/mohamedaboelsaud/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohamedaboelsaud/output/snake.svg" alt="Snake animation" />
 
 ###
 
